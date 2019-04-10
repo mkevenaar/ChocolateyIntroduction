@@ -330,7 +330,7 @@ Maurice Kevenaar
 ### Chocolatey Packages
 
 - Zip files + Versioning, Dependencies & PowerShell
-- Metadata Software Information / Package Information
+- Metadata; Software and Package Information
 - PowerShell
   - 30+ Built-in functions - turn hard tasks into one-liners
   - Handle additional missing installer logic (like add to PATH)
@@ -407,3 +407,28 @@ Mention laptop setup:
 +++
 
 ![Choco Demo](assets/img/chocolateygui-in-action.gif)
+
+---
+
+@title[Slides and Code]
+
+## Slides
+
+##### https://gitpitch.com/mkevenaar/ChocolateyIntroduction/INFO
+
+
+## Code
+
+##### https://git.io/fjqJ1
+
+---
+
+@title[Questions]
+
+## If you have any questions, feel free to get in touch
+
+---
+
+@title[Thanks]
+
+![That's all folks](assets/img/Thats-all-folks.png)
