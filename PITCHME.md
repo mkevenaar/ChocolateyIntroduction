@@ -414,12 +414,12 @@ Mention laptop setup:
 
 ## Slides
 
-##### https://gitpitch.com/mkevenaar/ChocolateyIntroduction/INFO
+### https://bit.ly/2UIkOka
 
 
 ## Code
 
-##### https://git.io/fjqJ1
+### https://git.io/fjqJ1
 
 ---
 
