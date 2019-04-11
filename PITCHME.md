@@ -419,7 +419,7 @@ Mention laptop setup:
 
 ## Code
 
-### https://git.io/fjqJ1
+### https://git.io/fjqzo
 
 ---
 
